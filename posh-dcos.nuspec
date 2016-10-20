@@ -2,7 +2,7 @@
     <package>
         <metadata>
             <id>posh-dcos</id>
-            <version>0.0.1</version>
+            <version>0.0.2</version>
             <authors>Stuart Leeks</authors>
             <owners>Stuart Leeks</owners>
             <licenseUrl>https://github.com/stuartleeks/posh-dcos/blob/master/LICENSE.md</licenseUrl>
