@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+    <package>
+        <metadata>
+            <id>posh-dcos</id>
+            <version>0.0.1</version>
+            <authors>Stuart Leeks</authors>
+            <owners>Stuart Leeks</owners>
+            <licenseUrl>https://github.com/stuartleeks/posh-dcos/blob/master/LICENSE.md</licenseUrl>
+            <projectUrl>https://github.com/stuartleeks/posh-dcos</projectUrl>
+            <requireLicenseAcceptance>false</requireLicenseAcceptance>
+            <description>Powershell tab expansion for dcos cli</description>
+            <releaseNotes></releaseNotes>
+            <copyright>Copyright 2015</copyright>
+            <tags>PowerShell Tab Completion</tags>
+        </metadata>
+        <files>
+            <file src="posh-dcos.ps1" target="tools" />
+            <file src="posh-dcos.psd1" target="tools" />
+            <file src="posh-dcos.psm1" target="tools" />
+        </files>
+    </package>
